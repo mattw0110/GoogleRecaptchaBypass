@@ -145,8 +145,83 @@ dmypy.json
 cython_debug/
 
 # PyCharm
-#  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
+#  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can be
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# IDE directories
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# Standalone Chrome
+chrome/
+chrome_user_data/
+chrome-*.zip
+
+# Chrome debugging and temporary files
+chrome-debug-profile/
+chrome-headless-*/
+*.chrome-debug*
+chrome-debug/
+Default/
+SingletonLock
+SingletonSocket
+
+# Temporary Chrome profiles (Windows)
+/tmp/chrome-debug*
+%TEMP%/chrome-debug*
+%TEMP%/chrome-headless*
+
+# Chrome user data directories
+**/chrome-debug-profile
+**/chrome-headless-*
+**/User Data/
+
+# Proxy management files
+working_proxies.json.bak
+proxy_test_results.json
+*.proxy.log
+
+# Service log files
+*.log
+logs/
+fake_2captcha.log
+service.log
+chrome.log
+
+# Runtime files
+*.pid
+*.lock
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test files and outputs
+test_results/
+test_output/
+*.test.log
+captcha_test_*.png
+*.wav
+*.mp3
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Development files
+.env.local
+.env.development
+.env.test
+config.local.json

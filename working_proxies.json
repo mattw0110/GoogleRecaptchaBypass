@@ -1,0 +1,165 @@
+{
+  "proxies": [
+    {
+      "proxy": "47.251.60.125:8080",
+      "response_time": 0.89,
+      "ip": "47.251.60.125",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "182.253.109.61:8080",
+      "response_time": 1.59,
+      "ip": "98.97.6.149, 182.253.109.61",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "129.159.38.24:80",
+      "response_time": 1.73,
+      "ip": "129.159.38.24",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "4.245.123.244:80",
+      "response_time": 2.18,
+      "ip": "20.56.66.202",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.211.195.139:5060",
+      "response_time": 2.24,
+      "ip": "8.211.195.139",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.209.96.245:5060",
+      "response_time": 2.25,
+      "ip": "8.209.96.245",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.211.195.173:9797",
+      "response_time": 2.27,
+      "ip": "8.211.195.173",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "47.91.29.151:9098",
+      "response_time": 2.35,
+      "ip": "47.91.29.151",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "47.76.144.139:8008",
+      "response_time": 2.4,
+      "ip": "47.76.144.139",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.211.42.167:544",
+      "response_time": 2.43,
+      "ip": "8.211.42.167",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "47.250.159.65:8080",
+      "response_time": 2.51,
+      "ip": "47.250.159.65",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "47.119.20.8:9080",
+      "response_time": 2.53,
+      "ip": "47.119.20.8",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.213.197.208:8888",
+      "response_time": 2.57,
+      "ip": "8.213.197.208",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.213.222.157:1080",
+      "response_time": 2.61,
+      "ip": "8.213.222.157",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "222.59.173.105:45205",
+      "response_time": 2.75,
+      "ip": "222.59.173.105",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "218.75.224.4:3309",
+      "response_time": 2.82,
+      "ip": "218.75.224.4",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "8.221.141.88:31433",
+      "response_time": 3.19,
+      "ip": "8.221.141.88",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "209.97.150.167:3128",
+      "response_time": 3.79,
+      "ip": "209.97.150.167",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "47.238.128.246:8001",
+      "response_time": 3.8,
+      "ip": "47.238.128.246",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    },
+    {
+      "proxy": "198.49.68.80:80",
+      "response_time": 4.47,
+      "ip": "198.49.68.79",
+      "last_used": null,
+      "success_count": 0,
+      "fail_count": 0
+    }
+  ],
+  "last_refresh": "2025-07-24T14:03:15.919113"
+}

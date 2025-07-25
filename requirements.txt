@@ -1,3 +1,7 @@
 DrissionPage
 pydub
 SpeechRecognition
+Flask
+Flask-CORS
+requests
+python-dotenv
